@@ -39,3 +39,10 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   purpose.rst
+   test.md
